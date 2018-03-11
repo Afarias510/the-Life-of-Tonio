@@ -33,3 +33,17 @@ p{
   box-shadow: 0 0 5px 5px #555555;
   opacity: 1.0;
 }
+.Hype {
+  height: auto;
+  width:100%;
+}
+.ocean {
+  width: 500px;
+  height:auto;
+}
+.Links {
+  transition: box-shadow 0.5s, opacity 0.5s;
+}
+.Links:hover {
+  box-shadow: 0 0 5px 5px #7be9fc;
+}

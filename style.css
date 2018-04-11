@@ -47,3 +47,7 @@ p{
 .Links:hover {
   box-shadow: 0 0 5px 5px #7be9fc;
 }
+.Rlogo {
+  width:500px;
+  height:auto;
+}
